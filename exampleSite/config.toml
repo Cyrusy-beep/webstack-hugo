@@ -8,7 +8,7 @@ hasCJKLanguage = true
 copyright = ""
 [params]
   author = "iplaycode"
-  description = "Webstack Hugo"
+  description = "AI工具导航站"
 [params.search]
   enable = true
 [params.darkmode]
